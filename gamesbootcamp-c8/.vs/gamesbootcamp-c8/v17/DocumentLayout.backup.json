@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|c:\\users\\damia\\documents\\game projects\\gamesbootcamp-c8\\assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|c:\\users\\damia\\documents\\game projects\\gamesbootcamp-c8\\assets\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\rollerballmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rollerballmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\playerhealthslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealthslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\physicsball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\physicsball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\floorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\floorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\containertut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\containertut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\assets\\scripts\\cubemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC8404E-3C26-26F4-CABD-2A2E7AD04E15}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransition.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneTransition.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:57:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingManager.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:56:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:24:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RollerBallManager.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\RollerBallManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RollerBallManager.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\RollerBallManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RollerBallManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:19:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerHealthSlider.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\PlayerHealthSlider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealthSlider.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\PlayerHealthSlider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealthSlider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:46:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhysicsBall.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\PhysicsBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PhysicsBall.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\PhysicsBall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PhysicsBall.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:21:36.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Bomb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bomb.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Bomb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bomb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:08:31.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:42:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Waypoint.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Waypoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Waypoint.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Waypoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Waypoint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:09:14.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FloorController.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\FloorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FloorController.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\FloorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FloorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:51:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContainerTut.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\ContainerTut.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ContainerTut.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\ContainerTut.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ContainerTut.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:12:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BallController.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\BallController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallController.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\BallController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:51:19.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Move.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Move.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:15:23.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CubeMove.cs",
+              "DocumentMoniker": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\CubeMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeMove.cs",
+              "ToolTip": "C:\\Users\\damia\\Documents\\Game Projects\\gamesbootcamp-c8\\Assets\\Scripts\\CubeMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:53:57.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
